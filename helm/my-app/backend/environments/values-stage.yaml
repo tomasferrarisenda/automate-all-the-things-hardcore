@@ -5,7 +5,7 @@ deployment:
     tag: 0
   replicas: 1
   env:
-    redis_host: # This value was modified by the deploy-infra pipeline
+    redis_host: master.green-stage-elascache-rep-group.shelfr.use1.cache.amazonaws.com
 
 secret:
   redis_pass: automate-all-the-things-stage
