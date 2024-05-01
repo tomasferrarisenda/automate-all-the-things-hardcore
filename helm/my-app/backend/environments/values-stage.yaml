@@ -2,7 +2,7 @@ environment: stage
 
 deployment:
   image:
-    tag: 0
+    tag: 1
   replicas: 1
   env:
     redis_host: master.green-stage-elascache-rep-group.shelfr.use1.cache.amazonaws.com
