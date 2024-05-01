@@ -1,5 +1,5 @@
-appName: AATT_APP_NAME-backend # This value was modified by the initial-setup python script
+appName: green-backend # This value was modified by the initial-setup python script
 
 deployment:
   image:
-    repository: AATT_DOCKERHUB_USERNAME/AATT_APP_NAME-backend # This value was modified by the initial-setup python script
+    repository: tferrari92/green-backend # This value was modified by the initial-setup python script
